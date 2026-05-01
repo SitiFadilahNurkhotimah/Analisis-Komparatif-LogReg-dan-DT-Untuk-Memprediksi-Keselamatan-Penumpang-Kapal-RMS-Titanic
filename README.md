@@ -37,4 +37,4 @@ Tipe data: Kategorik
 - hasil_prediksi.xlsx: Output akhir yang berisi label prediksi keselamatan (0 atau 1) yang dihasilkan oleh model terbaik untuk kebutuhan analisis lebih lanjut.
 
 
-_© 2026 Siti Fadilah Nurkhotimah. All rights reserved. Dokumen ini disusun untuk kepentingan portofolio akademik._
+_© 2025 Siti Fadilah Nurkhotimah. All rights reserved. Dokumen ini disusun untuk kepentingan portofolio akademik._
