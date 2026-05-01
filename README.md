@@ -36,4 +36,5 @@ Tipe data: Kategorik
 - data_prediksi.xlsx: Dataset independen (418 penumpang) yang digunakan sebagai data uji untuk mengevaluasi kemampuan generalisasi model terhadap data baru.
 - hasil_prediksi.xlsx: Output akhir yang berisi label prediksi keselamatan (0 atau 1) yang dihasilkan oleh model terbaik untuk kebutuhan analisis lebih lanjut.
 
-##### Berdasarkan hasil pengujian, model Decision Tree menunjukkan performa yang lebih unggul dibandingkan Logistic Regression dalam menangkap pola non-linear pada data penumpang, serta menghasilkan prediksi yang lebih konsisten dan stabil pada data uji.
+
+_© 2026 Siti Fadilah Nurkhotimah. All rights reserved. Dokumen ini disusun untuk kepentingan portofolio akademik._
