@@ -1,0 +1,1 @@
+# Analisis-Komparatif-LogReg-dan-DT-Untuk-Memprediksi-Keselamatan-Penumpang-Kapal-RMS-Titanic
